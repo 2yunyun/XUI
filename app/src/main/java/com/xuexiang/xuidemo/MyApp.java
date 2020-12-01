@@ -3,6 +3,7 @@ package com.xuexiang.xuidemo;
 import android.app.Application;
 import android.content.Context;
 
+import androidx.multidex.BuildConfig;
 import androidx.multidex.MultiDex;
 
 import com.google.android.cameraview.CameraView;
